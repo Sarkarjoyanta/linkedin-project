@@ -340,7 +340,7 @@ const Chat = () => {
            </div>
            ))
            :
-           <h1>You aren't member in this group</h1>
+           <h1 className='font-nunito font-medium text-base text-[#5F35F5]'>Select your friend then start chat with each other</h1>
           }
           {/* receive msg start */}
           {/* <div className='mb-7'>
